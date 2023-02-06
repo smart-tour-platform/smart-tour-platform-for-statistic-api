@@ -1,0 +1,9 @@
+pandas
+tqdm
+uvicorn
+fastapi
+transformers
+pytorch-lightning==1.2.8
+numpy
+torch
+sentence_transformers==2.2.2
